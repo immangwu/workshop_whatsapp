@@ -1,0 +1,16 @@
+Open cmd
+
+pip install pywhatkit
+pip install openpyxl
+
+## 
+open the Book1_Project.excel
+
+Open the File location and copy paste the path
+
+Open the whatsapp_automate.py
+
+
+
+
+
